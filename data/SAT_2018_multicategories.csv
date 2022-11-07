@@ -134,8 +134,6 @@
 132,1140,canon city re-1,1266,canon city high school,Male,White,Not FRL Eligible,Not English Learners,Students without IEPs,492.363636363636,499.636363636364,81212,49816.0,30211.0
 133,8001,charter school institute,0015,academy of charter schools,Female,White,Not FRL Eligible,Not English Learners,Students without IEPs,510,543.333333333333,80031,79205.0,35081.0
 134,8001,charter school institute,0015,academy of charter schools,Male,White,Not FRL Eligible,Not English Learners,Students without IEPs,541,560,80031,79205.0,35081.0
-135,8001,charter school institute,0075,animas high school,Female,White,Not FRL Eligible,Not English Learners,Students without IEPs,537.142857142857,596.666666666667,81302,,
-136,8001,charter school institute,0075,animas high school,Male,White,Not FRL Eligible,Not English Learners,Students without IEPs,527.894736842105,557.894736842105,81302,,
 137,8001,charter school institute,2067,colorado early college fort collins,Female,White,FRL Eligible,Not English Learners,Students without IEPs,502.941176470588,551.176470588235,80525,85047.0,49259.0
 138,8001,charter school institute,2067,colorado early college fort collins,Female,White,Not FRL Eligible,Not English Learners,Students without IEPs,553.666666666667,596.5,80525,85047.0,49259.0
 139,8001,charter school institute,2067,colorado early college fort collins,Male,White,Not FRL Eligible,Not English Learners,Students without IEPs,563.333333333333,578.666666666667,80525,85047.0,49259.0
@@ -255,8 +253,6 @@
 253,0880,denver county 1,2244,dsst college view high school,Female,Hispanic,FRL Eligible,English Learners,Students without IEPs,484.074074074074,450.37037037037,80236,55701.0,16914.0
 254,0880,denver county 1,2244,dsst college view high school,Male,Hispanic,FRL Eligible,English Learners,Students without IEPs,518.235294117647,475.294117647059,80236,55701.0,16914.0
 255,0880,denver county 1,2244,dsst college view high school,Male,Hispanic,FRL Eligible,Not English Learners,Students without IEPs,550,506.875,80236,55701.0,16914.0
-256,0880,denver county 1,,dsst,Male,Hispanic,FRL Eligible,English Learners,Students without IEPs,546.842105263158,525.789473684211,,,
-257,0880,denver county 1,,dsst,Male,White,Not FRL Eligible,Not English Learners,Students without IEPs,692.631578947368,672.105263157895,,,
 258,0880,denver county 1,2398,east high school,Female,Black,FRL Eligible,Not English Learners,Students without IEPs,450.833333333333,464.583333333333,80206,129514.0,21295.0
 259,0880,denver county 1,2398,east high school,Female,Black,Not FRL Eligible,Not English Learners,Students without IEPs,460.588235294118,495.294117647059,80206,129514.0,21295.0
 260,0880,denver county 1,2398,east high school,Female,Hispanic,FRL Eligible,Not English Learners,Students without IEPs,486.363636363636,503.181818181818,80206,129514.0,21295.0
@@ -541,15 +537,8 @@
 539,2000,mesa county valley 51,6666,palisade high school,Female,White,Not FRL Eligible,Not English Learners,Students without IEPs,501.451612903226,529.677419354839,81526,69393.0,5445.0
 540,2000,mesa county valley 51,6666,palisade high school,Male,White,FRL Eligible,Not English Learners,Students without IEPs,500.833333333333,509.583333333333,81526,69393.0,5445.0
 541,2000,mesa county valley 51,6666,palisade high school,Male,White,Not FRL Eligible,Not English Learners,Students without IEPs,545.121951219512,536.585365853659,81526,69393.0,5445.0
-542,,moffat county re,2020,no 1,Female,White,Not FRL Eligible,Not English Learners,Students without IEPs,488.333333333333,524.52380952381,,,
-543,,moffat county re,2020,no 1,Male,White,Not FRL Eligible,Not English Learners,Students without IEPs,467.5,476.785714285714,,,
 544,2035,montezuma-cortez re-1,6026,montezuma-cortez high school,Female,White,Not FRL Eligible,Not English Learners,Students without IEPs,483.333333333333,519.259259259259,81321,45591.0,14284.0
 545,2035,montezuma-cortez re-1,6026,montezuma-cortez high school,Male,White,Not FRL Eligible,Not English Learners,Students without IEPs,510,494.8,81321,45591.0,14284.0
-546,2180,montrose county re-1j,6058,montrose high school,Female,Hispanic,FRL Eligible,Not English Learners,Students without IEPs,459.047619047619,470.47619047619,81402,,
-547,2180,montrose county re-1j,6058,montrose high school,Female,Hispanic,Not FRL Eligible,Not English Learners,Students without IEPs,469.473684210526,518.947368421053,81402,,
-548,2180,montrose county re-1j,6058,montrose high school,Female,White,Not FRL Eligible,Not English Learners,Students without IEPs,540,562.075471698113,81402,,
-549,2180,montrose county re-1j,6058,montrose high school,Male,Hispanic,Not FRL Eligible,Not English Learners,Students without IEPs,515,506.875,81402,,
-550,2180,montrose county re-1j,6058,montrose high school,Male,White,Not FRL Eligible,Not English Learners,Students without IEPs,516.833333333333,522.333333333333,81402,,
 551,1060,peyton 23 jt,6902,peyton senior high school,Female,White,Not FRL Eligible,Not English Learners,Students without IEPs,494,520.5,80831,82396.0,24009.0
 552,1060,peyton 23 jt,6902,peyton senior high school,Male,White,Not FRL Eligible,Not English Learners,Students without IEPs,492.727272727273,492.272727272727,80831,82396.0,24009.0
 553,1990,plateau valley 50,3582,grand mesa high school,Male,White,Not FRL Eligible,Not English Learners,Students without IEPs,420.625,451.25,81624,64375.0,1480.0
@@ -706,6 +695,3 @@
 704,3100,windsor re-4,9672,windsor high school,Male,Hispanic,Not FRL Eligible,Not English Learners,Students without IEPs,510.47619047619,521.428571428571,80550,93024.0,22406.0
 705,3100,windsor re-4,9672,windsor high school,Male,White,FRL Eligible,Not English Learners,Students without IEPs,505,517.222222222222,80550,93024.0,22406.0
 706,3100,windsor re-4,9672,windsor high school,Male,White,Not FRL Eligible,Not English Learners,Students without IEPs,539.805825242718,537.087378640777,80550,93024.0,22406.0
-707,3020,woodland park re-2,9696,woodland park high school,Female,White,Not FRL Eligible,Not English Learners,Students without IEPs,521.219512195122,547.560975609756,80866,,
-708,3020,woodland park re-2,9696,woodland park high school,Male,White,FRL Eligible,Not English Learners,Students without IEPs,460.416666666667,460,80866,,
-709,3020,woodland park re-2,9696,woodland park high school,Male,White,Not FRL Eligible,Not English Learners,Students without IEPs,540.37037037037,533.703703703704,80866,,
